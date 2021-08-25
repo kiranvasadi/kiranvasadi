@@ -23,4 +23,6 @@ Talend Bigdata ETL
 Tableau & PowerBI & Cognos Visualization
 SQL Server, SSIS, SSRS
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada&layout=compact)
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kiranvasadi&theme=default&show_icons=true&count_private=true)
