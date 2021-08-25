@@ -26,3 +26,5 @@ SQL Server, SSIS, SSRS
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranvasadi&layout=compact)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kiranvasadi&theme=default&show_icons=true&count_private=true)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=yourusename&repo=repo-name)](https://github.com/yourusername/repo-name)
