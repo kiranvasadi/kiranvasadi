@@ -6,7 +6,7 @@ Hello! 👋, I’m Kiran Kumar Vasadi. A passionate Analytics & Cloud Big Data E
 
 👯 I’m looking to collaborate ?
 
-💬 Ask me about Google Cloud, Azure Cloud, Spark, Pyspark, Python
+💬 Ask me about Google Cloud BigQuery, Azure Databricks, Spark, Pyspark, Python, Airflow
 
 📫 How to reach me kiranvasadibigdata@gmail.com
 
@@ -14,8 +14,8 @@ Connect with me:
 whatsapp 8977081119
 
 Languages and Tools:
-GCP Products: Dataproc, Cloud SQL, BigQuery, Bigtable, Spanner
-Azure HDinsight, DataFactory, DataLake, SQL Warehouse, U-SQL
+GCP Products: Dataproc, Cloud SQL, BigQuery, Bigtable, Spanner, Airflow
+Azure HDinsight, DataFactory, DataLake, SQL Warehouse, U-SQL, Data Bricks
 Hadoop, Sqoop, Hive, Hbase, Pig
 Spark Scala, Spark SQL, Spark PySpark, Spark Streaming
 Data Warehouse Migration
